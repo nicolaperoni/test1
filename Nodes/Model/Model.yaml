@@ -1,0 +1,7 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- Name: Pippo
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
